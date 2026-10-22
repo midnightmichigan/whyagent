@@ -1,0 +1,46 @@
+Script started on 2026-10-11 22:27:18+00:00 [COMMAND="stty cols 100 rows 30; python3 -m whyagent.demo --live 'Why do coral reefs bleach?'" <not executed on terminal>]
+# Why: Why do coral reefs bleach?
+
+**Verdict:** The leading explanation is: Coral bleaching is the process where corals become white due to loss of symbiotic algae and photosynthetic pigments. (12 evidence items reviewed, 16 unique claims extracted).
+**Overall confidence:** 95% (live evidence)
+
+## Reasons (ranked)
+### 1. Coral bleaching is the process where corals become white due to loss of symbiotic algae and photosynthetic pigments.
+Confidence: 48%
+- [Coral bleaching](https://en.wikipedia.org/wiki/Coral_bleaching) *(wikipedia)*
+
+### 2. This loss of pigment can be caused by various stressors, such as changes in water temperature, light, salinity, or nutrients.
+Confidence: 48%
+- [Coral bleaching](https://en.wikipedia.org/wiki/Coral_bleaching) *(wikipedia)*
+
+### 3. Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria.
+Confidence: 48%
+- [Coral](https://en.wikipedia.org/wiki/Coral) *(wikipedia)*
+
+## Also considered (ranked lower)
+- They typically form compact colonies of many identical individual polyps. — ranked lower because it has single-source support in this evidence set.
+- Coral reefs formulate the most valuable and productive marine ecosystems, providing habitat for many marine species. — ranked lower because it has single-source support in this evidence set.
+- Coral reef surveying and analysis are currently confined to coral experts who invest substantial effort in generating comprehensive and dependable reports (\emph{e.g.}, coral coverage, population, spatial distribution, \textit{etc}), from the collected survey data. — ranked lower because it has single-source support in this evidence set.
+
+## What would change this answer
+- New peer-reviewed studies contradicting the top-ranked reason.
+- First-party data (e.g. the asker's own analytics) disagreeing with the published evidence.
+- A larger, more diverse evidence set shifting the ranking.
+
+## Limitations
+- Evidence comes from public web sources, not first-party data.
+- Confidence is a heuristic over source count and diversity, not a statistical guarantee.
+
+## Reasoning trace
+1. Q: Why do coral reefs bleach?
+2. Planned 4 sub-questions from 3 topic keywords.
+3. Sub-question 'What are the documented causes of coral reefs bleach?...' -> 3 evidence items.
+4. Sub-question 'How common or measurable is coral reefs bleach?...' -> 3 evidence items.
+5. Sub-question 'What evidence exists for the leading explanations of coral r...' -> 3 evidence items.
+6. Sub-question 'How do coral and reefs interact in coral reefs bleach?...' -> 3 evidence items.
+7. Extracted 16 unique claims from 12 evidence items.
+8. Ranked 3 reasons, 3 alternatives.
+9. Overall confidence 95% (live evidence).
+10. Checked 16 claims for cross-source disagreement: 0 flagged.
+
+Script done on 2026-10-11 22:27:36+00:00 [COMMAND_EXIT_CODE="0"]
