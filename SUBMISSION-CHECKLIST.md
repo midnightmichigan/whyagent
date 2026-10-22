@@ -25,7 +25,16 @@
       video-assets/render-terminal-demo.py (offline PIL + ffmpeg, word-boundary
       wrap). All frames inspected by the builder (title/mid/end): clean, no
       truncated text, no overlapping labels, words never split mid-word.
-- [ ] Fresh-history public repo (his per-item approval at publish time)
+- [x] Public repo pushed 2026-10-22 (machine $0 publish): https://github.com/midnightmichigan/whyagent
+      (pre-approved per 2026-10-21 standing rule; Qloo precedent 2026-10-22 ~07:40)
+
+## PRIZE CORRECTION (2026-10-22 ~08:40 EDT, official event page read verbatim)
+Pool is now shown as "up to $20,000": Track 01 $3,700 (1st $1,600 / 2nd $1,200 /
+3rd $900), Track 02 $3,700 (same split), Track 03 $3,600 (1st $1,500 / 2nd $1,200 /
+3rd $900), Wildcard $2,000 (1st $1,000 / 2nd $600 / 3rd $400) = $13,000 cash +
+in-kind "Best use of NVIDIA Nemotron" NVIDIA DGX Spark AI Supercomputer
+(Founder's Edition, listed $4,699). (Original Oct 11 read: $4,350/$4,350/$4,300/
+$2,000 = $15k cash — organizers lowered the cash splits.)
 
 ## Judging alignment (100 pts)
 - Impact 30 — pick a demo question with a real user and real stakes
